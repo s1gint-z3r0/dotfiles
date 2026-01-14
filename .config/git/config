@@ -1,0 +1,9 @@
+[core]
+    editor = vim
+    autocrlf = input
+[pull]
+    rebase = false
+[alias]
+    st = status
+    lg = log --oneline --graph --decorate --all
+    undo = reset HEAD~1 --mixed
