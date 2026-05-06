@@ -7,3 +7,5 @@
     st = status
     lg = log --oneline --graph --decorate --all
     undo = reset HEAD~1 --mixed
+[commit]
+	template = ~/.config/git/message.txt
