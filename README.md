@@ -14,3 +14,8 @@ stow zsh vim git
 - `.vimrc` , Vim config
 - `.config/git/config` , Global git settings
 - `scripts/setup.sh` , Bootstrap
+
+## Update log
+- migrated vim -> neovim
+- switched prompt to starship
+- terminal: kitty
